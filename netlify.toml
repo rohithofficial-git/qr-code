@@ -7,10 +7,8 @@ plugins = []
   [functions."*"]
 
 [build]
-publish = "E:\\WRK\\Qr code\\dist"
-publishOrigin = "config"
-commandOrigin = "config"
-command = "npm run build"
+publish = "."
+command = ""
 
   [build.environment]
 
